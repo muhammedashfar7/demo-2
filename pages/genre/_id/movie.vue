@@ -51,7 +51,7 @@ export default {
       if (this.genre) {
         return `Movie Genre: ${this.genre.name}`;
       } else {
-        return `Movie Genre`;
+        return 'Movie Genre';
       }
     },
   },

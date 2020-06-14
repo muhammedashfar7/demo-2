@@ -35,7 +35,7 @@ export default {
 
   computed: {
     message () {
-      return this.error.message || `An error occurred`;
+      return this.error.message || 'An error occurred';
     },
   },
 };

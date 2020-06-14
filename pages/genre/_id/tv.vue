@@ -51,7 +51,7 @@ export default {
       if (this.genre) {
         return `TV Genre: ${this.genre.name}`;
       } else {
-        return `TV Genre`;
+        return 'TV Genre';
       }
     },
   },
