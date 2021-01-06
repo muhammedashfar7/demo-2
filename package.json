@@ -16,7 +16,7 @@
   "dependencies": {
     "@nuxtjs/dotenv": "^1.4.1",
     "@nuxtjs/pwa": "^2.6.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "nuxt": "^2.12.2",
     "smoothscroll-polyfill": "^0.4.3",
     "tiny-cookie": "^2.3.2"
